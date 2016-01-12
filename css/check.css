@@ -1,0 +1,7 @@
+body {
+    background-image: url("/home/sai/Downloads/atlas.jpg");
+background-size : cover ;
+  }
+  .logo{
+   padding: 200px 2px 2px 150px;
+ }
